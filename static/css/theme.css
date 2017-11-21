@@ -311,11 +311,41 @@ a:focus {
     padding: 60px 0;
     padding-top: 120px;
     color: #fff;
-    background-color: 	#CD5C5C;
+    background-color:   #CD5C5C;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+}
+
+.project-section {
+    width: 100%;
+    padding: 60px 0;
+    padding-top: 120px;
+    color: #fff;
+    background-color:  #607D8B;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+
+.project-image {
+  float: left;
+  height: 300px;
+  width: 300px;
+  padding: 10px;
+  font-family: Veranda;
+}
+
+.project-td-image {
+  padding: 20px;
+}
+
+.project-td-text {
+  padding: 20px;
+  font-size: 23px;
 }
 
 @media(min-width:767px) {
