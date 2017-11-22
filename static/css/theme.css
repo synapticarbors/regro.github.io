@@ -288,7 +288,7 @@ a:focus {
 }
 
 .content-section {
-    padding-top: 100px;
+    padding-top: 50px;
 }
 
 .intro {
@@ -310,8 +310,8 @@ a:focus {
     width: 100%;
     padding: 60px 0;
     padding-top: 120px;
-    color: #fff;
-    background-color:   #CD5C5C;
+    color: #000;
+    background-color:   #fff;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
